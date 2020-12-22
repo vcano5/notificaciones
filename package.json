@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "jimp": "^0.6.4",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "qrcode-reader": "^1.0.4",
     "request": "^2.88.0"
   }
